@@ -208,3 +208,4 @@ __marimo__/
 
 # Thomas Addition
 datasets/
+.DS_Store
