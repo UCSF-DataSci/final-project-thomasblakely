@@ -20,7 +20,7 @@ Each dataset was stripped to contain only three variables: participant ID, steps
 
 ### Packages
 
-Begin by running the following command in your terminal
+Run `setup.sh` or run the following command in your terminal:
 
 ```
 python3 -m venv .venv
